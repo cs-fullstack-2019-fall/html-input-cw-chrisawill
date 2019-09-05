@@ -1,0 +1,84 @@
+body
+{
+    background-color: darkgrey;
+}
+
+#container
+{
+    background-color: white;
+    border: gray solid 2px;
+    width: 70%;
+    height: 80%;
+}
+
+#notcliked
+{
+    color: black;
+    background-color: gray;
+    border: black solid 1px;
+    text-align: center;
+    width: 50%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: larger;
+}
+
+aside3
+{
+
+    float: none;
+}
+#click
+{
+    color: black;
+    background-color: white;
+    /*border: black dot-dash 1px;*/
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: larger;
+    padding-left: 20%;
+}
+
+#bold
+{
+    text-align: center ;
+}
+
+.options
+{
+    border: gray solid 1px;
+    text-align: left;
+    width: 100%;
+    color: gray;
+    background-color: white;
+}
+aside
+{
+   width: 50%;
+}
+#red
+{
+    color: crimson;
+}
+
+aside
+{
+    width: 50% ;
+    float: left;
+}
+#green
+{
+    width: 40%;
+    background-color: green;
+    text-align: center;
+    /*float: right;*/
+    padding-bottom: 5%;
+    padding-top: 5%;
+    font-size: larger;
+    color: white;
+    /*height: %;*/
+
+}
+
+
+
